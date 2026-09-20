@@ -36,6 +36,8 @@ Various books about working remotely. Includes personal stories along with how-t
 
 Tools to make working remotely easier.
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, timesheet, expense log, change order (no signup).
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
